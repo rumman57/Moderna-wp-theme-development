@@ -1,6 +1,6 @@
 This is my first Wordpress theme development project from HTML template named moderna.
 
-Template Download Link: [moderna template] (http://www.something)
+Template Download Link: [Moderna Template](https://www.dropbox.com/s/hxhgannc88rrxpl/Moderna.zip?dl=0)
 
 ## How To Run Source Code
 
@@ -16,5 +16,8 @@ Put your code to your exact location.
 
 Open "wp-config.php". Change DB_NAME,DB_USER & DB_PASSWORD as you set.
 
-Admin Panel-> username: rumman
-              password: rumman57
+Admin Panel ==> username: rumman                                                   
+                password: rumman57
+
+
+#### That's All.Thanks.
