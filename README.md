@@ -16,8 +16,8 @@ Put your code to your exact location.
 
 Open "wp-config.php". Change DB_NAME,DB_USER & DB_PASSWORD as you set.
 
-Admin Panel ==> username: rumman                                                   
-                password: rumman57
+**Admin Panel : Username => 'rumman' & Password => 'rumman57'**
 
+Go To Settings->Permalinks. In common settings select 'Post Name' & Save Changes.
 
 #### That's All.Thanks.
